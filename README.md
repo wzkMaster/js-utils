@@ -13,3 +13,6 @@
 ## Other
 1. randomNumber: 给定范围生成随机整数
 2. memoize: 生成记忆化函数
+
+## Formatter
+利用JS内置的国际化格式化函数实现数字的格式化、货币单位化和缩略化
